@@ -4,7 +4,7 @@ I am Magnus Siegumfeldt, a MSc. Computer Science Engineering graduate from the T
 I'm interested in low-level development, embedded software, computer architecture, and high-performance development. I enjoy designing solutions for high-performance, reliability, and robustness.
 
 Stack:
-- C++, 
+- C++
 - C
 - Python
 - Git
